@@ -1,0 +1,12 @@
+#heading{
+    font-family: 'Grenze Gotisch', cursive;
+    font-size: 80px;
+}
+#card{
+    background-color: rgb(43, 43, 43);
+    color: blanchedalmond;
+    font-family: 'Krub', sans-serif;
+}
+.card-title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
